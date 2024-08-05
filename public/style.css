@@ -9,6 +9,12 @@ body {
     font-family: 'Karla', sans-serif;
 }
 
+html, body {
+    overflow: hidden;
+    height: 100%;
+  }
+  
+
 main {
     background-color: #F5F5F5;
     height: 400px;
